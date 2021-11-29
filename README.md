@@ -5,7 +5,7 @@ Dowloaded From the playstore and extracted using DEV tools and a terminal emulat
 
 This APK comes From discord.com
 
-Dowload in releases
+Dowload in Releases(https://github.com/IGN-Styly/DiscordQuest/releases)
 
 #How To Extract
 Install VirtualBox(https://www.virtualbox.org/) and dowload AndroidX86(https://www.android-x86.org/) and create a virtual machine, install and dowload discord  from the playstore.
